@@ -8,6 +8,7 @@ export default function CustomButton({ title, onPress }) {
   );
 }
 
+
 const styles = StyleSheet.create({
   btn: {
     backgroundColor: "#53B175", // Mã màu xanh lá cây tương tự trong ảnh
