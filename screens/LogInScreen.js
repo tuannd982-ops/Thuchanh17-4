@@ -2,6 +2,7 @@ import { View, Text, StyleSheet, TextInput, TouchableOpacity, Image } from "reac
 import { Ionicons } from "@expo/vector-icons";
 import CustomButton from "../components/CustomButton";
 
+
 export default function LogInScreen({ navigation }) {
   return (
     <View style={styles.container}>
